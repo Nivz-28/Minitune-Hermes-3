@@ -94,34 +94,8 @@ Write a short summary of the Great Wall of China.
 ### Response:
 The Great Wall of China is a historic fortification built to protect Chinese states from invasions. Stretching over 13,000 miles, it symbolizes strength, perseverance, and architectural brilliance.
 ```
-
 ---
-
-## 🛣️ Roadmap
-
-- [x] Hermes-3 8B finetuning with PEFT
-- [x] Alpaca-format SFT dataset
-- [ ] Support multi-turn chat format
-- [ ] Merge and quantize weights for deployment
-- [ ] Streamlit/Gradio inference demo
-
----
-
-## 🤝 Contributing
-
-Pull requests welcome! If you have custom datasets or inference tools to integrate, feel free to fork and contribute. Be sure to check out `CONTRIBUTING.md`.
-
----
-
-## 📜 License
-
-Distributed under the **Apache 2.0 License**. See `LICENSE` for more information.
-
----
-
-## 📬 Contact
 
 Built by **Nivedita Sivakumar**  
 📬 [LinkedIn](https://www.linkedin.com/in/niveditasivakumar) | 🧠 [Medium](https://medium.com/@niveditasivakumar) | 🧪 [GitHub](https://github.com/Nivz-28)
 
-> *Inspired by Nous Research. Powered by small, fast, smart LLaMAs.*
